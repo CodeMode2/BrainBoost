@@ -17,7 +17,7 @@ h2 {
 }
 
 button {
-  display: flex;
+  align-items: center;
 }
 
 .mathe-button {
