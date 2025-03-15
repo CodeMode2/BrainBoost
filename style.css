@@ -16,12 +16,16 @@ h2 {
   color: #80B918;
 }
 
+button {
+  text-align: center;
+}
+
 .mathe-button {
   height: 30px;
   width: 100px;
-  text-align: center;
   background-color: #DDDF00;
-  
+  border: 2px solid #BFD200;
+  border-radius: 20px;
 }
 
 
