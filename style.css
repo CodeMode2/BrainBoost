@@ -26,12 +26,9 @@ h2 {
 }
 
 .auswahl {
-  .container {
   display: flex;
   justify-content: center;  /* Horizontal zentrieren */
   align-items: center;      /* Vertikal zentrieren (falls nötig) */
-  height: 100vh;            /* Falls es die ganze Seite sein soll */
-}
 }
 
 
